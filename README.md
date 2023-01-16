@@ -2,5 +2,3 @@
 Homepage for BSA GIT
 
 
-🧙Hocus-pocus!
-
